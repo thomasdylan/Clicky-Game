@@ -1,12 +1,12 @@
 import React from 'react';
-import MyNav from './components/Navbar';
+import TopBar from './components/TopBar';
 import './App.css';
 
 function App() {
   return (
-
-      <MyNav />
-
+    <div>
+      <TopBar />
+    </div>
   );
 }
 
