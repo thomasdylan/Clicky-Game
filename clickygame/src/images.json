@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Wayne",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/3/34/BocketBiche.jpg/revision/latest/scale-to-width-down/310?cb=20181219171156",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "McMurray",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/b/bb/McMurray.jpg/revision/latest/scale-to-width-down/310?cb=20190129141840",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Dan",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/a/a8/DanOpen5x1.jpg/revision/latest/scale-to-width-down/310?cb=20190225184647",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Ginger&Boots",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/0/06/BootsandtheGinger1x6.jpg/revision/latest/scale-to-width-down/310?cb=20190108051444",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Stwwrrt",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/1/1f/StewartReturns2x3.jpg/revision/latest/scale-to-width-down/310?cb=20190202031547",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Daryl",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/8/8d/Daryl-Letterkenny-624x351.jpg/revision/latest/scale-to-width-down/310?cb=20180123032212",
+        "clicked": false
+    }
+]
