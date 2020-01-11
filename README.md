@@ -7,8 +7,8 @@ https://thomasdylan.github.io/Clicky-Game/
 
 ## Built With
 
-* [React](https://reactjs.org/)
-* [React-Bootstrap](https://react-bootstrap.github.io/)
+* [React](http://www.dropwizard.io/1.0.2/docs/)
+* [React-Bootstrap](https://maven.apache.org/)
 
 ## Authors
 
