@@ -29,7 +29,7 @@ class App extends Component {
     };
     if (this.state.currentScore === 7) {
       //I couldn't get react-bootstrap modals to work.
-      alert("You Win!")
+      alert("You Win! FERDA")
       this.resetScore();
     }
   }
