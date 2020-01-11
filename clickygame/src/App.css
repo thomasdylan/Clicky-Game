@@ -40,3 +40,13 @@
 .scores {
   float: right;
 }
+
+.layout {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.rules {
+  margin-top: 10px;
+  width: 100%;
+}
