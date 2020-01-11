@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/clicky-game/static/css/main.05ecfef1.chunk.css",
-    "main.js": "/clicky-game/static/js/main.1bfb1803.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.1bfb1803.chunk.js.map",
-    "runtime-main.js": "/clicky-game/static/js/runtime-main.0abcfe47.js",
-    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.0abcfe47.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/clicky-game/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.b7d20e14.chunk.js": "/clicky-game/static/js/2.b7d20e14.chunk.js",
-    "static/js/2.b7d20e14.chunk.js.map": "/clicky-game/static/js/2.b7d20e14.chunk.js.map",
-    "index.html": "/clicky-game/index.html",
-    "precache-manifest.a9ace77e66542246bf154a48402dd020.js": "/clicky-game/precache-manifest.a9ace77e66542246bf154a48402dd020.js",
-    "service-worker.js": "/clicky-game/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/clicky-game/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.05ecfef1.chunk.css.map": "/clicky-game/static/css/main.05ecfef1.chunk.css.map",
-    "static/js/2.b7d20e14.chunk.js.LICENSE": "/clicky-game/static/js/2.b7d20e14.chunk.js.LICENSE"
+    "main.css": "/Clicky-Game/static/css/main.05ecfef1.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.98d0af0c.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.98d0af0c.chunk.js.map",
+    "runtime-main.js": "/Clicky-Game/static/js/runtime-main.08d4c1aa.js",
+    "runtime-main.js.map": "/Clicky-Game/static/js/runtime-main.08d4c1aa.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Clicky-Game/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b7d20e14.chunk.js": "/Clicky-Game/static/js/2.b7d20e14.chunk.js",
+    "static/js/2.b7d20e14.chunk.js.map": "/Clicky-Game/static/js/2.b7d20e14.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.73624ce85ff059311712b2f7b1d13c22.js": "/Clicky-Game/precache-manifest.73624ce85ff059311712b2f7b1d13c22.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Clicky-Game/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.05ecfef1.chunk.css.map": "/Clicky-Game/static/css/main.05ecfef1.chunk.css.map",
+    "static/js/2.b7d20e14.chunk.js.LICENSE": "/Clicky-Game/static/js/2.b7d20e14.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0abcfe47.js",
+    "static/js/runtime-main.08d4c1aa.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.b7d20e14.chunk.js",
     "static/css/main.05ecfef1.chunk.css",
-    "static/js/main.1bfb1803.chunk.js"
+    "static/js/main.98d0af0c.chunk.js"
   ]
 }
