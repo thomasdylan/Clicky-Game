@@ -34,5 +34,17 @@
         "name": "Daryl",
         "image": "https://vignette.wikia.nocookie.net/letterkenny/images/8/8d/Daryl-Letterkenny-624x351.jpg/revision/latest/scale-to-width-down/310?cb=20180123032212",
         "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Katy",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/b/b5/TheCity.jpg/revision/latest/scale-to-width-down/310?cb=20181225052921",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "BayBros",
+        "image": "https://vignette.wikia.nocookie.net/letterkenny/images/3/31/BrothersBay4x6.jpg/revision/latest/scale-to-width-down/310?cb=20190108054456",
+        "clicked": false
     }
 ]
